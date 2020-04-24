@@ -1,5 +1,19 @@
-.project
+### Eclipse
+.metadata
 .settings/*
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+.project
+
+#External tool builders
+*.launch
 
 # PDT-specific (PHP Development Tools)
 .buildpath
