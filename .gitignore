@@ -1,0 +1,5 @@
+.project
+.settings/*
+
+# PDT-specific (PHP Development Tools)
+.buildpath
